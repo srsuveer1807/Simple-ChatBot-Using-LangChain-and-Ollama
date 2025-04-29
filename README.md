@@ -37,10 +37,10 @@ This repository contains a chatbot application built using LangChain, Streamlit,
 3. Enter a query in the text input field and view the chatbot's response.
 
 ## File Structure
-.env                  # Environment variables
-[app.py](http://_vscodecontentref_/0)                # Main application file
-[requirements.txt](http://_vscodecontentref_/1)      # Python dependencies
-README.md             # Project documentation
+- .env                 
+- [app.py](http://_vscodecontentref_/0)                
+- [requirements.txt](http://_vscodecontentref_/1)      
+- README.md             # Project documentation
 
 ## Environment Variables
 - LANGCHAIN_TRACING_V2: Enables<vscode_annotation           details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'> Lang</vscode_annotation>Chain tracing.  
